@@ -1,7 +1,7 @@
-#To run the project
+# To run the project
 	./mvnw spring-boot:run
  
-#To build package to jar
+# To build package to jar
 	./mvnw package
  
 # To validates the Maven project to ensure that everything is correct and all the necessary information is available
@@ -16,5 +16,5 @@
 # To run test cases for project
 	./mvnw test
 
-#Run all the test cases and run any checks on the results of the integration tests to ensure quality criteria are met
+# Run all the test cases and run any checks on the results of the integration tests to ensure quality criteria are met
 	./mvnw verify
